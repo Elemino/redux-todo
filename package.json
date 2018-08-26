@@ -53,6 +53,7 @@
     "examples:test": "cross-env CI=true babel-node examples/testAll.js"
   },
   "dependencies": {
+    "firebase": "^5.4.1",
     "loose-envify": "^1.4.0",
     "symbol-observable": "^1.2.0"
   },
