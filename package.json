@@ -59,7 +59,7 @@
     "start": "src/node index.js"
   },
   "dependencies": {
-    "firebase": "^5.5.3",
+    "firebase": "^5.5.4",
     "loose-envify": "^1.4.0",
     "symbol-observable": "^1.2.0"
   },
