@@ -56,7 +56,7 @@
     "prepare": "npm run clean && npm run format:check && npm run lint && npm test && npm run build",
     "examples:lint": "eslint examples",
     "examples:test": "cross-env CI=true babel-node examples/testAll.js",
-    "start": "src/node index.js"
+    "start": "index.js"
   },
   "dependencies": {
     "firebase": "^5.5.4",
