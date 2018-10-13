@@ -285,16 +285,6 @@ Almost all examples have a corresponding CodeSandbox sandbox. This is an interac
 
 If you're new to the NPM ecosystem and have troubles getting a project up and running, or aren't sure where to paste the gist above, check out [simplest-redux-example](https://github.com/jackielii/simplest-redux-example) that uses Redux together with React and Browserify.
 
-## Testimonials
-
->[“Love what you're doing with Redux”](https://twitter.com/jingc/status/616608251463909376)  
->Jing Chen, creator of Flux
-
->[“I asked for comments on Redux in FB's internal JS discussion group, and it was universally praised. Really awesome work.”](https://twitter.com/fisherwebdev/status/616286955693682688)  
->Bill Fisher, author of Flux documentation
-
->[“It's cool that you are inventing a better Flux by not doing Flux at all.”](https://twitter.com/andrestaltz/status/616271392930201604)  
->André Staltz, creator of Cycle
 
 ## Thanks
 
@@ -309,21 +299,11 @@ If you're new to the NPM ecosystem and have troubles getting a project up and ru
 * [Cycle](https://github.com/cyclejs/cycle-core) for showing how often a function is the best tool;
 * [React](https://github.com/facebook/react) for the pragmatic innovation.
 
-Special thanks to [Jamie Paton](http://jdpaton.github.io) for handing over the `redux` NPM package name.
 
-## Logo
-
-You can find the official logo [on GitHub](https://github.com/reduxjs/redux/tree/master/logo).
-
-## Change Log
 
 This project adheres to [Semantic Versioning](http://semver.org/).  
 Every release, along with the migration instructions, is documented on the GitHub [Releases](https://github.com/reduxjs/redux/releases) page.
 
-## Patrons
-
-The work on Redux was [funded by the community](https://www.patreon.com/reactdx).  
-Meet some of the outstanding companies that made it possible:
 
 * [Webflow](https://github.com/webflow)
 * [Ximedes](https://www.ximedes.com/)
