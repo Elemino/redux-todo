@@ -8,9 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/reduxjs/redux.git"
   },
-  "bugs": {
-    "url": "https://github.com/reduxjs/redux/issues"
-  },
+  
   "keywords": [
     "redux",
     "reducer",
@@ -24,10 +22,7 @@
     "flux",
     "elm"
   ],
-  "authors": [
-    "Dan Abramov <dan.abramov@me.com> (https://github.com/gaearon)",
-    "Andrew Clark <acdlite@me.com> (https://github.com/acdlite)"
-  ],
+  
   "main": "lib/redux.js",
   "unpkg": "dist/redux.js",
   "module": "es/redux.js",
