@@ -1,6 +1,7 @@
 import React from 'react'
 import ProductsContainer from './ProductsContainer'
 import CartContainer from './CartContainer'
+import styled from 'styled-components'
 
 const App = () => (
   <div>
@@ -13,3 +14,4 @@ const App = () => (
 )
 
 export default App
+
