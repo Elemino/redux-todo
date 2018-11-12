@@ -1,6 +1,7 @@
 import React from 'react'
 import ProductsContainer from './ProductsContainer'
 import CartContainer from './CartContainer'
+// eslint-disable-next-line no-unused-vars
 import styled from 'styled-components'
 
 const App = () => (
