@@ -3,14 +3,14 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
-    "merge": ">=1.2.1",
     "babel-plugin-styled-components": "^1.8.0",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.7.0",
-    "react-scripts": "^1.1.5"
+    "merge": "1.2.1",
+    "react-scripts": "^2.1.1"
   },
   "dependencies": {
-    "merge": ">=1.2.1",
+    "merge": "1.2.1",
     "modern-normalize": "^0.5.0",
     "prop-types": "^15.6.2",
     "react": "^16.6.1",
